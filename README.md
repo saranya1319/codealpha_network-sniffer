@@ -1,4 +1,4 @@
-# codealpha_network-sniffer
+#network-sniffer
 
 A simple raw socket-based network sniffer written in Python. It captures incoming IP packets on your machine and displays protocol, source IP, and destination IP in real-time.
 
